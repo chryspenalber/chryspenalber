@@ -20,7 +20,7 @@ Aqui você poderá ver os meus projetos realizados durante os estudos na Tech Ac
 
 [Cordel](https://chryspenalber.github.io/projeto-cordel/index.html)
 
-[Hércules](https://chryspenalber.github.io/projeto-hercules/Hercules.html)
+[Hércules](https://chryspenalber.github.io/projeto-hercules/hercules_index.html)
 
 
 ## 🔗 Links
