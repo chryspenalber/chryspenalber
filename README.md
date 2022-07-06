@@ -14,6 +14,8 @@ Aqui você poderá ver os meus projetos realizados durante os estudos na Tech Ac
 
 [Viagens](https://chryspenalber.github.io/projeto-viagens/index.html)
 
+[Viagens](https://chryspenalber.github.io/projeto-mini-jogo/index.html) 
+
 [Página StartSe](https://chryspenalber.github.io/projeto-pagina-startse/Aulao.html)
 
 [Android](https://chryspenalber.github.io/projeto-android/android.html)
