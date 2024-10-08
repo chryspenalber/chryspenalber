@@ -12,6 +12,8 @@ Aqui você poderá ver os meus projetos realizados durante os estudos na Tech Ac
 
 ## Projetos
 
+[HBO Max Clone](https://chryspenalber.github.io/hbomax/)
+
 [Viagens](https://chryspenalber.github.io/projeto-viagens/index.html)
 
 [Mini Jogo](https://chryspenalber.github.io/projeto-mini-jogo/index.html) 
