@@ -1,37 +1,52 @@
-# Olá, eu sou a Chrystiana! 👋
+# 👋 Olá, eu sou a Chrys Penalber!
 
-Me formei em hotelaria, mas sempre fui uma aspirante à tecnologia. Em 2022 decidi fazer uma transição de carreira. Hoje sou uma estudante do Tech Academy na StartSe e também do Curso em Video.
+💡 Sou formada em **Hotelaria**, com **MBA em Administração de Empresas**, e atualmente estou em **transição de carreira para a área de tecnologia**.  
+Estudo **Engenharia Front-End na EBAC**, unindo meu olhar de gestão e experiência do usuário à criação de interfaces funcionais e atraentes.
 
-# HTML e CSS
+🎯 Tenho uma boa base em **HTML**, **CSS** e **GitHub**, e atualmente estou me aprofundando em **JavaScript**, **React** e **Next.js**.
 
-Esse é o meu repositório no GitHub.
+---
 
-Aqui você poderá ver os meus projetos realizados durante os estudos na Tech Academy da StartSe e no CursoemVideo.
+## 🧠 Tecnologias que estou aprendendo
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</div>
 
+---
 
+## 💻 Projetos em destaque
 
-## Projetos
+🔹 [Hércules](https://chryspenalber.github.io/hercules/)  
+🔹 [HBO Max Clone](https://chryspenalber.github.io/hbomax/)  
+🔹 [Viagens](https://chryspenalber.github.io/projeto-viagens/index.html)  
+🔹 [Mini Jogo](https://chryspenalber.github.io/projeto-mini-jogo/index.html)  
+🔹 [Página StartSe](https://chryspenalber.github.io/projeto-pagina-startse/index.html)  
+🔹 [Android](https://chryspenalber.github.io/projeto-android/android.html)  
+🔹 [Cordel](https://chryspenalber.github.io/projeto-cordel/index.html)  
+🔹 [Hora Certa](https://chryspenalber.github.io/projeto-hora-certa/index.html)
 
-[HBO Max Clone](https://chryspenalber.github.io/hbomax/)
+---
 
-[Viagens](https://chryspenalber.github.io/projeto-viagens/index.html)
+## ✨ Um pouco sobre mim
+🌍 Moro em Lisboa (Portugal), mas nascida e criada no Rio de Janeiro, Brasil
 
-[Mini Jogo](https://chryspenalber.github.io/projeto-mini-jogo/index.html) 
+🎨 Apaixonada por design, usabilidade e boas experiências digitais  
 
-[Página StartSe](https://chryspenalber.github.io/projeto-pagina-startse/index.html)
+🚀 Focada em desenvolvimento front-end e transformação digital  
 
-[Android](https://chryspenalber.github.io/projeto-android/android.html)
+🐕 Tobias é meu vira-lata e amo viajar
 
-[Cordel](https://chryspenalber.github.io/projeto-cordel/index.html)
+---
 
-[Hércules](https://chryspenalber.github.io/projeto-hercules/hercules_index.html)
+## 🔗 Onde me encontrar
 
-[Hora Certa](https://chryspenalber.github.io/projeto-hora-certa/index.html)
- 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chrystiana-penalber)
 
+---
 
-## 🔗 Links
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chrystiana-penalber)
-
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/chryspenalber)
+⭐ **“Insanidade é continuar fazendo sempre a mesma coisa e esperar resultados diferentes.”**
