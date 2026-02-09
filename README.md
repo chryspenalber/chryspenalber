@@ -3,7 +3,7 @@
 💡 Sou formada em **Hotelaria**, com **MBA em Administração de Empresas**, e atualmente estou em **transição de carreira para a área de tecnologia**.  
 Estudo **Engenharia Front-End na EBAC**, unindo meu olhar de gestão e experiência do usuário à criação de interfaces funcionais e atraentes.
 
-🎯 Tenho uma boa base em **HTML**, **CSS** e **GitHub**, e atualmente estou me aprofundando em **JavaScript**, **React** e **Next.js**.
+🎯 Tenho uma boa base em **HTML**, **CSS**, **JavaScript** e **GitHub**, e atualmente estou me aprofundando em **React** e **Next.js**.
 
 ---
 
