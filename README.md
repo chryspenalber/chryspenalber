@@ -1,50 +1,79 @@
 # 👋 Olá, eu sou a Chrys Penalber!
 
-💡 Sou formada em **Hotelaria**, com **MBA em Administração de Empresas**, e atualmente estou em **transição de carreira para a área de tecnologia**.  
-Estudo **Engenharia Front-End na EBAC**, unindo meu olhar de gestão e experiência do usuário à criação de interfaces funcionais e atraentes.
+💻 Desenvolvedora Front-End em formação, com background em **Hotelaria** e **MBA em Administração de Empresas**.  
+Atualmente estudo **Engenharia Front-End na EBAC**, unindo visão de negócio, experiência do usuário e desenvolvimento de interfaces modernas.
 
-🎯 Tenho uma boa base em **HTML**, **CSS**, **JavaScript** e **GitHub**, e atualmente estou me aprofundando em **React** e **Next.js**.
+🎯 Buscando oportunidade como **Desenvolvedora Front-End Júnior**, onde eu possa aplicar e evoluir minhas habilidades em projetos reais.
 
 ---
 
-## 🧠 Tecnologias que estou aprendendo
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</div>
+## 🚀 Tecnologias principais
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📚 Em evolução
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+- Consumo de APIs (fetch)
+- Manipulação de dados com JavaScript
+- Componentização com React
+- Boas práticas de organização de código
 
 ---
 
 ## 💻 Projetos em destaque
 
-🔹 [Jogo de Adivinhação - Vanilla JavaScript](https://chryspenalber.github.io/tarefa-5/)  
-🔹 [Preenchimento Automático de Endereço - API ViaCEP](https://chryspenalber.github.io/tarefa-7-web-api/)  
-🔹 [Agência Criativa Web - Flexbox e CSS Grid](https://chryspenalber.github.io/tarefa-10-responsividade/)  
-🔹 [Hércules - SCSS, Flexbox e CSS Grid](https://chryspenalber.github.io/hercules/)  
-🔹 [HBO Max Clone - HTML e CSS](https://chryspenalber.github.io/hbomax/)  
-🔹 [Viagens - HTML e CSS](https://chryspenalber.github.io/projeto-viagens/index.html)
+🔹 **[Preenchimento Automático de Endereço - API ViaCEP](https://chryspenalber.github.io/tarefa-7-web-api/)**  
+Integração com API externa para preenchimento automático de dados, utilizando JavaScript e manipulação do DOM.
+
+🔹 **[Hércules - Página Tributo](https://chryspenalber.github.io/hercules/)**  
+Projeto responsivo com SCSS, Flexbox e Grid, incluindo galeria, áudio e layout interativo.
+
+🔹 **[Agência Criativa Web](https://chryspenalber.github.io/tarefa-10-responsividade/)**  
+Landing page responsiva com foco em layout moderno utilizando Flexbox e CSS Grid.
 
 ---
 
-## ✨ Um pouco sobre mim
-🌍 Moro em Lisboa (Portugal), mas nascida e criada no Rio de Janeiro, Brasil
+## 📁 Outros projetos
 
-🎨 Apaixonada por design, usabilidade e boas experiências digitais  
-
-🚀 Focada em desenvolvimento front-end e transformação digital  
-
-🐕 Tobias é meu vira-lata e amo viajar
+- [Jogo de Adivinhação - JavaScript](https://chryspenalber.github.io/tarefa-5/)
+- [HBO Max Clone - HTML e CSS](https://chryspenalber.github.io/hbomax/)
+- [Viagens - HTML e CSS](https://chryspenalber.github.io/projeto-viagens/index.html)
 
 ---
 
-## 🔗 Onde me encontrar
+## 🧠 O que estou desenvolvendo
+
+- Lógica de programação aplicada ao front-end
+- Estruturação de interfaces responsivas
+- Integração com APIs
+- Organização e escalabilidade de código
+- Transição para frameworks modernos (React e Next.js)
+
+---
+
+## ✨ Sobre mim
+
+🌍 Moro em Lisboa (Portugal), nascida e criada no Rio de Janeiro  
+🎨 Apaixonada por design, usabilidade e experiências digitais  
+🚀 Interessada em tecnologia, produtos digitais e transformação digital  
+🐕 Tenho um vira-lata chamado Tobias e adoro viajar  
+
+---
+
+## 🔗 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chrystiana-penalber)
 
+📫 Aberta a oportunidades, networking e projetos colaborativos
+
 ---
 
-⭐ **“Insanidade é continuar fazendo sempre a mesma coisa e esperar resultados diferentes.”**
+⭐ *“Insanidade é continuar fazendo sempre a mesma coisa e esperar resultados diferentes.”*
