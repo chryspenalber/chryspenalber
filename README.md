@@ -21,14 +21,12 @@ Estudo **Engenharia Front-End na EBAC**, unindo meu olhar de gestão e experiên
 
 ## 💻 Projetos em destaque
 
-🔹 [Hércules](https://chryspenalber.github.io/hercules/)  
-🔹 [HBO Max Clone](https://chryspenalber.github.io/hbomax/)  
-🔹 [Viagens](https://chryspenalber.github.io/projeto-viagens/index.html)  
-🔹 [Mini Jogo](https://chryspenalber.github.io/projeto-mini-jogo/index.html)  
-🔹 [Página StartSe](https://chryspenalber.github.io/projeto-pagina-startse/index.html)  
-🔹 [Android](https://chryspenalber.github.io/projeto-android/android.html)  
-🔹 [Cordel](https://chryspenalber.github.io/projeto-cordel/index.html)  
-🔹 [Hora Certa](https://chryspenalber.github.io/projeto-hora-certa/index.html)
+🔹 [Jogo de Adivinhação - Vanilla JavaScript](https://chryspenalber.github.io/tarefa-5/)  
+🔹 [Preenchimento Automático de Endereço - API ViaCEP](https://chryspenalber.github.io/tarefa-7-web-api/)  
+🔹 [Agência Criativa Web - Flexbox e CSS Grid](https://chryspenalber.github.io/tarefa-10-responsividade/)  
+🔹 [Hércules - SCSS, Flexbox e CSS Grid](https://chryspenalber.github.io/hercules/)  
+🔹 [HBO Max Clone - HTML e CSS](https://chryspenalber.github.io/hbomax/)  
+🔹 [Viagens - HTML e CSS](https://chryspenalber.github.io/projeto-viagens/index.html)
 
 ---
 
